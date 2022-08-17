@@ -1,2 +1,2 @@
 # ProjetoAgrinho2022
-Neste projeto apresento um website para a cooperativa Copescarte onde será apresentado o papel semear.
+Neste projeto apresento um website que conta um pouco da história da cooperativa Copescarte e é apresentado o Papel Semear.
