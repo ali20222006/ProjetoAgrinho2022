@@ -1,0 +1,41 @@
+body{
+	background-image: url(fundo.jpg);
+	background-attachment: fixed;
+	background-size: 1980px 1024px;
+}
+h1{
+	text-align:center;
+	color: green;
+}
+h2{
+	text-align: center;
+	color: darkgreen;
+}
+h3{
+	text-align: center;
+	color: green;
+}
+#tela{
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+#logo{
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+p{
+	text-align: center;
+	font-size: 20px
+}
+strong{
+	color: darkgreen;
+}
+#papel{ 
+	max-width:900px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+}
